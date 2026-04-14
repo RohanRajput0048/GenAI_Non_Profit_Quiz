@@ -1,0 +1,11 @@
+# Virtual Environments
+venv/
+env/
+.env
+
+# Python Caches
+__pycache__/
+*.pyc
+
+# Local Data (Vector DB)
+data/chroma_db/
