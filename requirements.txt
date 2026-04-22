@@ -4,3 +4,11 @@ python-dotenv
 langchain
 chromadb
 sentence-transformers
+fastapi
+uvicorn
+pydantic
+requests
+pypdf
+langchain-community
+langchain-text-splitters
+google-genai
